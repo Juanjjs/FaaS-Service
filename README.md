@@ -11,15 +11,6 @@
 
 <img src="https://github.com/joelruicar/CloudComputing/blob/main/repositorio/Faas.png?raw=true" align="right" height="124px"/>
 
-
-
-## Integrantes
-* Roberto Alfonso Ruiz (Supergrefu)
-* Joel Ruiz Carrillo (Joel)(Joel L. Ruiz Carrillo)
-* Juan Camilo Jojoa Sanchez (juanCCloud)
-* Lizet Valeria Chamorro Hernández (LizetChamorro)
-
----
  
  
 ### Arquitectura general
